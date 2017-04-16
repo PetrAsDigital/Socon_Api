@@ -1,0 +1,19 @@
+{
+  "name": "socon_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "lint": "eslint ./src"
+  },
+    "dependencies": {
+    "express": "^4.14.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "eslint": "^3.8.1",
+  "eslint-config-standard": "^5.3.1",
+  "eslint-plugin-promise": "^1.3.2",
+  "eslint-plugin-standard": "^1.3.2"
+}
